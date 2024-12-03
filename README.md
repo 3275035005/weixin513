@@ -1,4 +1,4 @@
-# 基于SpringBoot充电桩充电站微信小程序
+# 基于Java+Springboot+Vue充电桩充电站微信小程序
 
 # 获取地址
 
